@@ -4,5 +4,4 @@
 int main(int argc, char const *argv[]) {
   printf("Hello Linux!");
   exit(0);
-  return 0;
 }
